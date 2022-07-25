@@ -15,6 +15,7 @@ n+(n-1)+(n-2)+(n-3)+….1= kadar işlemde sonuca varmaktayız. Bu ise bize n’ 
 Time Complexity: Average case: Aradığımız sayının ortada olması,Worst case: Aradığımız sayının sonda olması, Best case: Aradığımız sayının dizinin en başında olması.
 
 Best Case: [2, 6, 16, 18, 22, 27]
+
 Worst Case: [27, 22, 18, 16, 6, 2]
 
 Dizi sıralandıktan sonra 18 sayısı hangi case kapsamına girer? Yazınız.
